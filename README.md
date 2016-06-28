@@ -5,6 +5,24 @@ For people reinstalling please ensure you use svn or git and create a new folder
 
 # Installation
 
+## Git
+
+1. Download the Minecraft launcher and run it. - Then close it.
+2. Run stock minecraft and ensure it all works correctly.
+3. Download and install git: https://git-scm.com/downloads Make sure you have "Use Git from Git Bash only" option
+4. Create a folder in a place you wish to store your client files.
+5. Open the folder.
+6. Right click in folder, and select 'Git Bash Here'
+7. Type: "git clone https://github.com/ascensionserver/ascension.git" without quotes
+8. Open the folder and install "forge-1.7.10-10.13.4.1614-1.7.10-installer-win.exe"
+9. Launch the stock minecraft launcher again after step 10 finishes.
+10. Go to the Profile Editor tab.
+11. Double click Forge to edit it.
+13. Tick the game directory box and enter the directory you have installed your minecraft files in. eg. "C:\Users\Username\Desktop\Minecraft Server"
+14. Tick the JVM Arguments box and enter "-Xmx4096M -Xms4096M -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+CICompilerCountPerCPU -XX:+TieredCompilation"
+15. Select Save Profile
+16. Ensure the correct profile is picked in the bottom left then click Play
+
 ## Subversion
 
 1. Download the Minecraft launcher and run it. - Then close it.
@@ -24,20 +42,3 @@ For people reinstalling please ensure you use svn or git and create a new folder
 15. Select Save Profile
 16. Ensure the correct profile is picked in the bottom left then click Play
 
-## Git
-
-1. Download the Minecraft launcher and run it. - Then close it.
-2. Run stock minecraft and ensure it all works correctly.
-3. Download and install git: https://git-scm.com/downloads Make sure you have "Use Git from Git Bash only" option
-4. Create a folder in a place you wish to store your client files.
-5. Open the folder.
-6. Right click in folder, and select 'Git Bash Here'
-7. Type: "git clone https://github.com/ascensionserver/ascension.git" without quotes
-8. Open the folder and install "forge-1.7.10-10.13.4.1614-1.7.10-installer-win.exe"
-9. Launch the stock minecraft launcher again after step 10 finishes.
-10. Go to the Profile Editor tab.
-11. Double click Forge to edit it.
-13. Tick the game directory box and enter the directory you have installed your minecraft files in. eg. "C:\Users\Username\Desktop\Minecraft Server"
-14. Tick the JVM Arguments box and enter "-Xmx4096M -Xms4096M -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+CICompilerCountPerCPU -XX:+TieredCompilation"
-15. Select Save Profile
-16. Ensure the correct profile is picked in the bottom left then click Play
