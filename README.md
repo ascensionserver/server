@@ -14,7 +14,7 @@ For people reinstalling please ensure you use svn or git and create a new folder
 5. Open the folder.
 6. Right click in folder, and select 'Git Bash Here'
 7. Type: "git clone https://github.com/ascensionserver/ascension.git" without quotes
-8. Open the folder and install "forge-1.7.10-10.13.4.1614-1.7.10-installer-win.exe"
+8. Open the folder and install "forge-1.10.2-12.18.3.2221-installer-win.exe"
 9. Launch the stock minecraft launcher again after step 10 finishes.
 10. Go to the Profile Editor tab.
 11. Double click Forge to edit it.
@@ -23,7 +23,7 @@ For people reinstalling please ensure you use svn or git and create a new folder
 15. Select Save Profile
 16. Ensure the correct profile is picked in the bottom left then click Play
 
-## Subversion
+## Subversion (Unsuported)
 
 1. Download the Minecraft launcher and run it. - Then close it.
 2. Run stock minecraft and ensure it all works correctly.
@@ -33,7 +33,7 @@ For people reinstalling please ensure you use svn or git and create a new folder
 6. If TortoiseSVN is installed correctly there should be a "SVN Checkout..." option
 7. Click this and then enter "https://github.com/ascensionserver/ascension" in the "URL of repository"
 8. Click Okay and it should begin downloading the server files inside the "trunk" folder.
-9. Open the folder and install "forge-1.7.10-10.13.4.1614-1.7.10-installer-win.exe".
+9. Open the folder and install "forge-1.10.2-12.18.3.2221-installer-win.exe".
 10. Launch the stock minecraft launcher again after step 8 and 9 finish.
 11. Go to the Profile Editor tab.
 12. Double click Forge to edit it.
