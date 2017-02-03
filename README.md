@@ -1,5 +1,11 @@
 # Ascension Pack
 
+# Servers
+
+1. Minecraft Main : 144.76.64.131:25565
+2. Minecraft Skyblock : 144.76.64.131:25566
+3. Ark Survival Evolved : 144.76.64.131:7777
+
 # IMPORTANT
 For people reinstalling please ensure you use svn or git and create a new folder following the steps below. If you feel confident you can just update your current one but i will not provide support.
 
