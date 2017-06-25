@@ -1,5 +1,11 @@
 # Ascension Pack
 
+
+# Discord
+Im aware we all have our own, but Q's and Suggestions are easier to track if they are all posted in the same place so.
+
+## [Ascension-Discord](https://discord.gg/Pu7RAqM)
+
 # Servers
 
 1. Minecraft Main : 144.76.64.131:25565
