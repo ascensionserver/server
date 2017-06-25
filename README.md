@@ -16,7 +16,7 @@ Im aware we all have our own, but Q's and Suggestions are easier to track if the
 ## Twitch/Curse Launcher (easiest)
 
 ### Ingredients
-* [FTB-Beyond-Ascension](http://144.76.64.131:8082/FTB%20Beyond%20-%20Ascension-1.10.0.zip)
+* [FTB-Beyond-Ascension](http://144.76.64.131:8082/)
 * [Twitch Launcher](https://app.twitch.tv/download)
 * [Enable Minecraft on twitch launcher](https://help.twitch.tv/customer/en/portal/articles/2764216-how-to-play-minecraft-with-twitch-app)
 
