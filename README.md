@@ -3,16 +3,29 @@
 # Servers
 
 1. Minecraft Main : 144.76.64.131:25565
-2. Minecraft Skyblock : 144.76.64.131:25566
-3. Ark Survival Evolved : 144.76.64.131:7777
-
-# IMPORTANT
-For people reinstalling please ensure you use svn or git and create a new folder following the steps below. If you feel confident you can just update your current one but i will not provide support.
+2. ~~Minecraft Skyblock : 144.76.64.131:25566~~
+3. ~~Ark Survival Evolved : 144.76.64.131:7777.~~
 
 # Installation
+## Twitch/Curse Launcher (easiest)
 
-## Git
+### Ingredients - 
+* [FTB-Beyond-Ascension](http://144.76.64.131:8082/FTB%20Beyond%20-%20Ascension-1.10.0.zip)
+* [Twitch Launcher](https://app.twitch.tv/download)
+* [Enable Minecraft on twitch launcher](https://help.twitch.tv/customer/en/portal/articles/2764216-how-to-play-minecraft-with-twitch-app)
 
+### Method -
+1. Go to the twitch launchers minecraft section.
+2. Click 'Create Custom Profile'
+3. Select 'import' (below the 'Create Profile' title at the top)
+4. Select the file downloaded above (  [FTB-Beyond-Ascension](http://144.76.64.131:8082/FTB%20Beyond%20-%20Ascension-1.10.0.zip) )
+
+## Stock launcher
+
+### Ingredients -
+* [Git](https://git-scm.com/downloads)
+
+### Method
 1. Download the Minecraft launcher and run it. - Then close it.
 2. Run stock minecraft and ensure it all works correctly.
 3. Download and install git: https://git-scm.com/downloads Make sure you have "Use Git from Git Bash only" option
@@ -28,23 +41,3 @@ For people reinstalling please ensure you use svn or git and create a new folder
 14. Tick the JVM Arguments box and enter "-Xmx4096M -Xms4096M -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+CICompilerCountPerCPU -XX:+TieredCompilation"
 15. Select Save Profile
 16. Ensure the correct profile is picked in the bottom left then click Play
-
-## Subversion (Unsuported)
-
-1. Download the Minecraft launcher and run it. - Then close it.
-2. Run stock minecraft and ensure it all works correctly.
-3. Download and install TortoiseSVN from http://tortoisesvn.net/downloads.html
-4. Create a folder in a place you wish to store your client files.
-5. Open the folder.
-6. If TortoiseSVN is installed correctly there should be a "SVN Checkout..." option
-7. Click this and then enter "https://github.com/ascensionserver/ascension" in the "URL of repository"
-8. Click Okay and it should begin downloading the server files inside the "trunk" folder.
-9. Open the folder and install "forge-1.10.2-12.18.3.2221-installer-win.exe".
-10. Launch the stock minecraft launcher again after step 8 and 9 finish.
-11. Go to the Profile Editor tab.
-12. Double click Forge to edit it.
-13. Tick the game directory box and enter the directory you have installed your minecraft files in including the "/trunk" eg. "C:\Users\Username\Desktop\Minecraft Server\trunk"
-14. Tick the JVM Arguments box and enter "-Xmx4096M -Xms4096M -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+CICompilerCountPerCPU -XX:+TieredCompilation"
-15. Select Save Profile
-16. Ensure the correct profile is picked in the bottom left then click Play
-
