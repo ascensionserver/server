@@ -13,6 +13,8 @@
 - RefinedChests
 - WorldEdit
 - CreeperHost
+- WirelessCraftingStation (RefinedStorage dependency)
+- WirelessCraftingTerminal (RefinedStorage dependency)
 
 #### Config Changes
 - AE Meteor Retrogen
