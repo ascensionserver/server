@@ -13,7 +13,9 @@ Im aware we all have our own, but Q's and Suggestions are easier to track if the
 3. ~~Ark Survival Evolved : 144.76.64.131:7777.~~
 
 # Installation
-## Twitch/Curse Launcher (easiest)
+## Twitch/Curse Launcher
+
+## NOTE: Instead of importing these packs you can also drag their content ontop of the old file. This will allow your ingame settings/markets to persist.
 
 ### Ingredients
 * [AscensionFiles.zip](http://144.76.64.131:8082/)  (Select the latest version)
