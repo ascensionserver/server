@@ -3,10 +3,10 @@
 # UPDATE NOTES 30/06/2017
 
 #### Additions
-+Mekanism
-+Platforms
-+Progressive automation
-+Chicken Chunks
+- Mekanism
+- Platforms
+- Progressive automation
+- Chicken Chunks
 
 #### Removals
 - RefinedStorage
@@ -15,8 +15,8 @@
 - CreeperHost
 
 #### Config Changes
-AE Meteor Retrogen
-Some teleport commands have been disabled.
+- AE Meteor Retrogen
+- Some teleport commands have been disabled.
 
 # Discord
 Im aware we all have our own, but Q's and Suggestions are easier to track if they are all posted in the same place so.
